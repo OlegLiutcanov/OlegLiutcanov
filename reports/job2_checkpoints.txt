@@ -1,0 +1,80 @@
+LEVEL 10  | passive points 11 (have 11) | Int 55 | Spirit 100 | ascendancy: none
+  warriors: skill level 4, 2 support sockets: (no loop supports can drop yet)
+  warrior life 330 | explosion - = -% of a normal level-10 monster's life (67) | extra warrior costs 27 Spirit
+  plain reference: 5 warriors with Brutality I 1/0 + Rage I 1/0 just attacking = 53 damage a second (PoB2)
+
+LEVEL 26  | passive points 31 (have 31) | Int 105 | Spirit 130 | ascendancy: Loyal Hellhound
+  warriors: skill level 8, 2 support sockets: Minion Instability 1/0 + Infernal Legion I 1/0
+  warrior life 1094 | explosion 181 = 41.7% of a normal level-26 monster's life (434) | extra warrior costs 23 Spirit
+  one lap: burn to Low Life 6.5s + revive 6.9s = 13.4s | mana 344, regen 13.8/s
+  Cast on Minion Death level 8 (+21% Energy): Detonate Dead level 8 hits 121 for 26 mana
+  map pack, 1 trigger gem (DD):       6 warriors,  4.5 casts wanted, mana pays  4.5 -> per lap: explosions 1086 + spell 547 + sword hits 752 = 177 damage a second (lap model)
+  map pack, 2 trigger gems (DD):      5 warriors,  7.6 casts wanted, mana pays  7.6 -> per lap: explosions 905 + spell 912 + sword hits 626 = 182 damage a second (lap model)
+  lone boss (no boss spell yet):      7 warriors,  0.0 casts wanted, mana pays  0.0 -> per lap: explosions 1267 + spell 0 + sword hits 877 = 160 damage a second (lap model)
+  plain reference: 7 warriors with Brutality II 1/0 + Rage I 1/0 just attacking = 187 damage a second (PoB2)
+
+LEVEL 41  | passive points 50 (have 50) | Int 140 | Spirit 160 | ascendancy: Loyal Hellhound, Altered Flesh
+  warriors: skill level 11, 3 support sockets: Minion Instability 1/0 + Infernal Legion I 1/0 + Feeding Frenzy I 1/0
+  warrior life 1878 | explosion 857 = 63.3% of a normal level-41 monster's life (1353) | extra warrior costs 22 Spirit
+  one lap: burn to Low Life 5.4s + revive 6.9s = 12.4s | mana 474, regen 19.0/s
+  Cast on Minion Death level 11 (+30% Energy): Detonate Dead level 11 hits 523 for 38 mana; Comet level 11 hits 815 for 67 mana
+  map pack, 1 trigger gem (DD):       7 warriors,  6.3 casts wanted, mana pays  6.3 -> per lap: explosions 5999 + spell 3320 + sword hits 4006 = 1079 damage a second (lap model)
+  map pack, 2 trigger gems (DD):      6 warriors, 10.9 casts wanted, mana pays 10.9 -> per lap: explosions 5142 + spell 5692 + sword hits 3434 = 1155 damage a second (lap model)
+  lone boss, 1 trigger gem (Comet):   7 warriors,  1.7 casts wanted, mana pays  1.7 -> per lap: explosions 5999 + spell 1378 + sword hits 4006 = 922 damage a second (lap model)
+  lone boss, 2 trigger gems (Comet):  6 warriors,  2.9 casts wanted, mana pays  2.9 -> per lap: explosions 5142 + spell 2363 + sword hits 3434 = 886 damage a second (lap model)
+  lab pick: Minion Instability 1/0 + Infernal Legion I 1/0 + Feeding Frenzy I 1/0
+      map pack 1 gem 1079 (7 warriors, mana pays 6.3 of 6.3 casts) | 2 gems 1155 (6 warriors, mana pays 10.9 of 10.9 casts)
+      lone boss 1 gem 922 (7 warriors, mana pays 1.7 of 1.7 casts) | 2 gems 886 (6 warriors, mana pays 2.9 of 2.9 casts)
+  lab pick with one more socket (Jeweller's Orb on the sceptre): Minion Instability 1/0 + Infernal Legion I 1/0 + Feeding Frenzy I 1/0 + Essence Harvest 1/0
+      map pack 1 gem 1079 (7 warriors, mana pays 6.3 of 6.3 casts) | 2 gems 1155 (6 warriors, mana pays 10.9 of 10.9 casts)
+      lone boss 1 gem 922 (7 warriors, mana pays 1.7 of 1.7 casts) | 2 gems 886 (6 warriors, mana pays 2.9 of 2.9 casts)
+  plain reference: 9 warriors with Brutality II 1/0 + Feeding Frenzy I 1/0 + Rage I 1/0 just attacking = 1320 damage a second (PoB2)
+
+LEVEL 52  | passive points 67 (have 67) | Int 150 | Spirit 160 | ascendancy: Loyal Hellhound, Altered Flesh
+  warriors: skill level 13, 3 support sockets: Minion Instability 1/0 + Infernal Legion I 1/0 + Feeding Frenzy I 1/0
+  warrior life 2484 | explosion 1376 = 47.3% of a normal level-52 monster's life (2909) | extra warrior costs 21 Spirit
+  one lap: burn to Low Life 5.4s + revive 6.9s = 12.4s | mana 565, regen 22.6/s
+  Cast on Minion Death level 13 (+36% Energy): Detonate Dead level 13 hits 1362 for 48 mana; Comet level 13 hits 1385 for 84 mana
+  map pack, 1 trigger gem (DD):       8 warriors,  7.5 casts wanted, mana pays  7.5 -> per lap: explosions 11008 + spell 10281 + sword hits 8838 = 2439 damage a second (lap model)
+  map pack, 2 trigger gems (DD):      6 warriors, 11.3 casts wanted, mana pays 11.3 -> per lap: explosions 8256 + spell 15422 + sword hits 6628 = 2453 damage a second (lap model)
+  lone boss, 1 trigger gem (Comet):   8 warriors,  2.0 casts wanted, mana pays  2.0 -> per lap: explosions 11008 + spell 2789 + sword hits 8838 = 1832 damage a second (lap model)
+  lone boss, 2 trigger gems (Comet):  6 warriors,  3.0 casts wanted, mana pays  3.0 -> per lap: explosions 8256 + spell 4184 + sword hits 6628 = 1544 damage a second (lap model)
+  lab pick: Minion Instability 1/0 + Infernal Legion I 1/0 + Feeding Frenzy I 1/0
+      map pack 1 gem 2439 (8 warriors, mana pays 7.5 of 7.5 casts) | 2 gems 2453 (6 warriors, mana pays 11.3 of 11.3 casts)
+      lone boss 1 gem 1832 (8 warriors, mana pays 2.0 of 2.0 casts) | 2 gems 1544 (6 warriors, mana pays 3.0 of 3.0 casts)
+  lab pick with one more socket (Jeweller's Orb on the sceptre): Minion Instability 1/0 + Infernal Legion I 1/0 + Feeding Frenzy I 1/0 + Essence Harvest 1/0
+      map pack 1 gem 2134 (7 warriors, mana pays 6.6 of 6.6 casts) | 2 gems 2453 (6 warriors, mana pays 11.3 of 11.3 casts)
+      lone boss 1 gem 1603 (7 warriors, mana pays 1.8 of 1.8 casts) | 2 gems 1544 (6 warriors, mana pays 3.0 of 3.0 casts)
+  plain reference: 9 warriors with Feeding Frenzy I 1/0 + Heavy Swing 1/0 + Brutality II 1/0 just attacking = 2910 damage a second (PoB2)
+
+LEVEL 65  | passive points 80 (have 88) | Int 160 | Spirit 236 | ascendancy: Loyal Hellhound, Altered Flesh, Beidat's Will
+  warriors: skill level 15, 4 support sockets: Minion Instability 1/0 + Infernal Legion I 1/0 + Feeding Frenzy I 1/0 + Crazed Minions 1/0
+  warrior life 3068 | explosion 1819 = 27.7% of a normal level-65 monster's life (6555) | extra warrior costs 21 Spirit
+  one lap: burn to Low Life 5.4s + revive 6.9s = 12.4s | mana 641, regen 34.6/s
+  Cast on Minion Death level 15 (+42% Energy): Detonate Dead level 15 hits 3421 for 59 mana; Comet level 15 hits 2226 for 104 mana
+  map pack, 1 trigger gem (DD):      11 warriors, 10.8 casts wanted, mana pays 10.8 -> per lap: explosions 20009 + spell 36927 + sword hits 15808 = 5889 damage a second (lap model)
+  map pack, 2 trigger gems (DD):     10 warriors, 19.6 casts wanted, mana pays 18.1 -> per lap: explosions 18190 + spell 61952 + sword hits 14370 = 7651 damage a second (lap model)
+  lone boss, 1 trigger gem (Comet):  11 warriors,  2.9 casts wanted, mana pays  2.9 -> per lap: explosions 20009 + spell 6407 + sword hits 15808 = 3418 damage a second (lap model)
+  lone boss, 2 trigger gems (Comet): 10 warriors,  5.2 casts wanted, mana pays  4.1 -> per lap: explosions 18190 + spell 9148 + sword hits 14370 = 3376 damage a second (lap model)
+  lab pick: Minion Instability 1/0 + Infernal Legion I 1/0 + Feeding Frenzy I 1/0 + Essence Harvest 1/0
+      map pack 1 gem 5353 (10 warriors, mana pays 9.8 of 9.8 casts) | 2 gems 7264 (9 warriors, mana pays 17.7 of 17.7 casts)
+      lone boss 1 gem 3107 (10 warriors, mana pays 2.6 of 2.6 casts) | 2 gems 3221 (9 warriors, mana pays 4.7 of 4.7 casts)
+  lab pick with one more socket (Jeweller's Orb on the sceptre): Minion Instability 1/0 + Infernal Legion I 1/0 + Feeding Frenzy I 1/0 + Essence Harvest 1/0 + Minion Mastery 1/0
+      map pack 1 gem 5750 (10 warriors, mana pays 9.8 of 9.8 casts) | 2 gems 7621 (9 warriors, mana pays 17.7 of 17.7 casts)
+      lone boss 1 gem 3504 (10 warriors, mana pays 2.6 of 2.6 casts) | 2 gems 3578 (9 warriors, mana pays 4.7 of 4.7 casts)
+  plain reference: 13 warriors with Feeding Frenzy I 1/0 + Brutality III 1/0 + Heavy Swing 1/0 + Minion Mastery 1/0 just attacking = 7149 damage a second (PoB2)
+
+LEVEL 90  | passive points 80 (have 113) | Int 160 | Spirit 250 | ascendancy: Loyal Hellhound, Altered Flesh, Beidat's Will
+  warriors: skill level 20, 5 support sockets: Minion Instability 1/0 + Infernal Legion I 1/0 + Feeding Frenzy I 1/0 + Crazed Minions 1/0
+  warrior life 4864 | explosion 2883 = 9.3% of a normal level-80 monster's life (31065) | extra warrior costs 20 Spirit
+  one lap: burn to Low Life 5.4s + revive 6.9s = 12.4s | mana 746, regen 40.3/s
+  Cast on Minion Death level 20 (+57% Energy): Detonate Dead level 20 hits 17402 for 99 mana; Comet level 20 hits 4516 for 173 mana
+  map pack, 1 trigger gem (DD):      13 warriors, 14.0 casts wanted, mana pays 12.6 -> per lap: explosions 37479 + spell 218636 + sword hits 33598 = 23453 damage a second (lap model)
+  map pack, 2 trigger gems (DD):     11 warriors, 23.6 casts wanted, mana pays 12.6 -> per lap: explosions 31713 + spell 218636 + sword hits 28429 = 22568 damage a second (lap model)
+  lone boss, 1 trigger gem (Comet):  13 warriors,  3.7 casts wanted, mana pays  2.9 -> per lap: explosions 37479 + spell 12995 + sword hits 33598 = 6806 damage a second (lap model)
+  lone boss, 2 trigger gems (Comet): 11 warriors,  6.3 casts wanted, mana pays  2.9 -> per lap: explosions 31713 + spell 12995 + sword hits 28429 = 5921 damage a second (lap model)
+  lab pick: Minion Instability 1/0 + Infernal Legion I 1/0 + Feeding Frenzy I 1/0 + Essence Harvest 1/0 + Minion Mastery 1/0
+      map pack 1 gem 24185 (12 warriors, mana pays 12.9 of 12.9 casts) | 2 gems 32552 (11 warriors, mana pays 19.2 of 23.6 casts)
+      lone boss 1 gem 7270 (12 warriors, mana pays 3.4 of 3.4 casts) | 2 gems 7817 (11 warriors, mana pays 6.3 of 6.3 casts)
+  plain reference: 15 warriors with Feeding Frenzy I 1/0 + Brutality III 1/0 + Heavy Swing 1/0 + Minion Mastery 1/0 + Rage III 1/0 just attacking = 16887 damage a second (PoB2)
+

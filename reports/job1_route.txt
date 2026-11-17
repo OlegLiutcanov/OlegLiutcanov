@@ -1,0 +1,102 @@
+SHORTEST ROUTE: 40 points for all six notables (exact; PoB2 tree 0_5)
+
+POINT-BY-POINT (put every "+5 to any Attribute" into Intelligence)
+   1  Spell and Minion Damage            10% increased Spell Damage / Minions deal 10% increased Damage
+   2  Attribute                          +5 to any Attribute
+   3  Attribute                          +5 to any Attribute
+   4  Attribute                          +5 to any Attribute
+   5  Attribute                          +5 to any Attribute
+   6  Attribute                          +5 to any Attribute
+   7  Attribute                          +5 to any Attribute
+   8  Attribute                          +5 to any Attribute
+   9  Minion Life                        Minions have 10% increased maximum Life
+  10  Living Death                       Minions have 15% increased maximum Life / Minions Revive 15% faster  <== NOTABLE
+  11  Attribute                          +5 to any Attribute
+  12  Minion Life and Minion Revive Speed Minions have 10% increased maximum Life / Minions Revive 8% faster
+  13  Minion Revive Speed                Minions Revive 5% faster
+  14  Minion Revive Speed                Minions Revive 5% faster
+  15  Necrotised Flesh                   Minions have 40% increased maximum Life / Minions have 10% reduced Life Recovery rate  <== NOTABLE
+  16  Gravedigger                        Minions Revive 15% faster / Recover 2% of maximum Life when one of your Minions is Revived  <== NOTABLE
+  17  Attribute                          +5 to any Attribute
+  18  Attribute                          +5 to any Attribute
+  19  Attribute                          +5 to any Attribute
+  20  Attribute                          +5 to any Attribute
+  21  Attribute                          +5 to any Attribute
+  22  Minion Attack and Cast Speed       Minions have 3% increased Attack and Cast Speed
+  23  Minion Attack and Cast Speed       Minions have 3% increased Attack and Cast Speed
+  24  Restless Dead                      Minions Revive 25% faster  <== NOTABLE
+  25  Attribute                          +5 to any Attribute
+  26  Attribute                          +5 to any Attribute
+  27  Attribute                          +5 to any Attribute
+  28  Attribute                          +5 to any Attribute
+  29  Attribute                          +5 to any Attribute
+  30  Triggered Spell Damage             Triggered Spells deal 14% increased Spell Damage
+  31  Triggered Spell Damage             Triggered Spells deal 14% increased Spell Damage
+  32  Dynamism                           40% increased Damage if you've Triggered a Skill Recently / Meta Skills gain 15% increased Energy  <== NOTABLE
+  33  Attribute                          +5 to any Attribute
+  34  Attribute                          +5 to any Attribute
+  35  Jewel Socket                       
+  36  Attribute                          +5 to any Attribute
+  37  Attribute                          +5 to any Attribute
+  38  Attribute                          +5 to any Attribute
+  39  Minion Damage                      Minions deal 10% increased Damage
+  40  Dead can Dance                     Minions have 25% increased maximum Life / Minions have 25% increased Evasion Rating  <== NOTABLE
+  ---- the six notables are done; from here on it is the lab's suggested extension ----
+  41  Raw Destruction                    16% increased Spell Damage / Minions deal 16% increased Damage / +10 to Intelligence  <== notable (extension)
+  42  Spell and Minion Damage            10% increased Spell Damage / Minions deal 10% increased Damage
+  43  Spell and Minion Damage            10% increased Spell Damage / Minions deal 10% increased Damage
+  44  Empowering Remains                 40% increased Spell Damage if one of your Minions has died Recently  <== notable (extension)
+  45  Spell and Minion Damage            10% increased Spell Damage / Minions deal 10% increased Damage
+  46  Emboldening Lead                   Minions deal 30% increased Damage if you've Hit Recently  <== notable (extension)
+  47  Spell and Minion Damage            8% increased Spell Damage / Minions deal 8% increased Damage
+  48  Minion Damage                      Minions deal 10% increased Damage
+  49  Power of the Dead                  Minions deal 20% increased Damage / Minions have 4% increased Attack and Cast Speed  <== notable (extension)
+  50  Physical Damage                    10% increased Physical Damage
+  51  Jagged Shards                      20% increased Critical Hit Chance for Spells / 20% increased Physical Damage  <== notable (extension)
+  52  Attribute                          +5 to any Attribute
+  53  Attribute                          +5 to any Attribute
+  54  Minion Damage                      Minions deal 10% increased Damage
+  55  Minion Damage                      Minions deal 10% increased Damage
+  56  Minion Damage                      Minions deal 10% increased Damage
+  57  Entropic Incarnation               Minions have +13% to Chaos Resistance / Minions gain 10% of Physical Damage as Chaos Damage  <== notable (extension)
+  58  Spell Damage                       10% increased Spell Damage
+  59  Spell Damage                       10% increased Spell Damage
+  60  Spell Damage                       10% increased Spell Damage
+  61  Potent Incantation                 30% increased Spell Damage / 5% reduced Cast Speed  <== notable (extension)
+  62  Minion Life                        Minions have 10% increased maximum Life
+  63  Minion Damage                      Minions deal 10% increased Damage
+  64  Relentless Fallen                  3% increased Movement Speed / Minions have 20% increased Movement Speed / Minions have 8% increased Attack and Cast Speed  <== notable (extension)
+  65  Physical Damage                    10% increased Physical Damage
+  66  Madness in the Bones               Gain 8% of Physical Damage as extra Chaos Damage  <== notable (extension)
+  67  Minion Damage                      Minions deal 10% increased Damage
+  68  Minion Damage                      Minions deal 10% increased Damage
+  69  Minion Damage                      Minions deal 10% increased Damage
+  70  Growing Swarm                      Minions have 20% increased Area of Effect / Minions have 20% increased Cooldown Recovery Rate  <== notable (extension)
+  71  Attribute                          +5 to any Attribute
+  72  Attribute                          +5 to any Attribute
+  73  Spell Area Damage                  10% increased Spell Area Damage
+  74  Spell Area Damage                  10% increased Spell Area Damage
+  75  Spell Area Damage                  10% increased Spell Area Damage
+  76  Ruin                               35% increased Spell Area Damage / Spell Skills have 10% reduced Area of Effect  <== notable (extension)
+  77  Mana Regeneration                  10% increased Mana Regeneration Rate
+  78  Open Mind                          25% increased Mana Regeneration Rate  <== notable (extension)
+  79  Minion Critical Chance             Minions have 20% increased Critical Hit Chance
+  80  Grip of Evil                       Minions have 40% increased Critical Damage Bonus  <== notable (extension)
+
+MARKS (level 90 reference character, only the tree changes)
+  points | warrior life | explosion vs boss / vs no-resistance monster | revive delay | Comet hit | Detonate Dead hit | Int
+       0 |         2191 |      214 / 427      |      12.0s |       556 |      3244 | 15
+      20 |         3834 |      411 / 822      |       8.1s |       612 |      3625 | 75
+      40 |         4382 |      512 / 1025     |       6.9s |       990 |      6236 | 130
+      60 |         4382 |     1128 / 2256     |       6.9s |      1718 |     12374 | 150
+      80 |         4601 |     1364 / 2727     |       6.9s |      2258 |     17744 | 160
+
+WHEN EACH NOTABLE ARRIVES
+  point 10  Living Death       -> warrior life 2739, explosion 294, revive 10.4s
+  point 15  Necrotised Flesh   -> warrior life 3834, explosion 411, revive 9.0s
+  point 16  Gravedigger        -> warrior life 3834, explosion 411, revive 8.1s
+  point 24  Restless Dead      -> warrior life 3834, explosion 411, revive 6.9s
+  point 32  Dynamism           -> warrior life 3834, explosion 411, revive 6.9s
+  point 40  Dead can Dance     -> warrior life 4382, explosion 512, revive 6.9s
+
+FOR COMPARISON: clicking the six notables in order in PoB2 costs 41 points; the exact route costs 40
