@@ -138,6 +138,34 @@ gem keeps its own Energy; Minion Pact excludes Triggered; Infernal Legion II giv
 **Dead ends.** Abyssal Pact (unreleased; The Watcher in the Dark is a 1.0 preview item). Explosive Demise needs a
 button and PoB2 returns 0. Pyromantic Pact would remove mana costs but can kill a hands-off character.
 
+## Fast campaign plan (new Witch, fresh account, asked 2026-11-17)
+
+Goal: fewest played hours. Level as a **minion Witch**, then switch on Domino Army (or not) at maps.
+Full numbers: `reports/leveling_plan.txt` (`./run.sh jobs/leveling_plan.lua`), tree order: `jobs/leveling_tree.lua`.
+
+- **Setup (borrowed** from Maxroll Minion Army Infernalist 0.5.5, GuyThatDies' 4:45 minion run, poe-vault**):**
+  a sceptre (100 Spirit, 2 free Skeletal Warriors as bodyguards), Spirit into Skeletal Snipers (Fire Attunement +
+  Rapid Attacks I, Feeding Frenzy I from Act 3), Raging Spirits (30 Spirit) after the King in the Mists, a fire
+  spell (Flame Wall or Volcano) to summon them. Infernalist: Loyal Hellhound, Altered Flesh, Beidat's Will.
+- **Lab (PoB2, no gear):** this army kills a normal monster of its own level in about 1 second from level 3 to 62.
+  On paper extra warriors are about 30% stronger per Spirit than snipers, but the sceptre's warrior level is fixed
+  by the item, so snipers (a gem he levels himself) are the dependable choice. One Raging Spirit is about one
+  sniper's damage. Self-cast spells run out of mana (regen pays 20 to 35% of nonstop casting with no gear).
+- **Tree, damage first:** Raw Destruction (5 points), Power of the Dead (8), Emboldening Lead (14), Deadly Swarm
+  (23), Relentless Fallen (30). All attribute nodes to Intelligence (gem level needs 21 Int at level 10, 41 at
+  22, 57 at 31, 74 at 41, 92 at 52). All of it sits on the Domino tree, so nothing is wasted.
+- **Without a sceptre there is no Spirit at all** (PoB2 base is 0). The Witch starts with a wand; a Rattling Sceptre
+  must drop or be bought from Una in Clearfell (random stock, unconfirmed: check her shop after each level).
+- **Route facts (poe2db):** Act 1 area levels 1-15 (Geonor), Act 2 16-31 (Jamanra), Act 3 33-45 (Doryani), Act 4
+  46-53 (Tavakai), three interludes 54-64, epilogue. Trial of the Sekhemas: Act 2, area level 22. Trial of Chaos:
+  Act 3, area level 38. Take every permanent reward (12 point books, Spirit x3, resistances, life); skip quests
+  that only give gems or orbs. A death resets the zone.
+- **Gear rules:** movement speed boots (10% from item level 1, 15% at 16, 20% at 33), "+ to Level of all Minion
+  Skills" on sceptre (item level 2) or amulet (5), resistance runes and rings as each act adds -10%.
+- Opinion only, not confirmed: racers finish in 4.5 to 5 hours, first-timers about 20 to 25 (old articles); stay
+  within 3 to 4 levels of the area; no experience loss on death in the campaign; hold dodge to sprint.
+- The fastest timed runs use Essence Drain + Contagion with Bonestorm for bosses (4:32). Harder to play.
+
 ## Jobs
 
 1. Tree route: done (see above, `reports/job1_route.txt`, `builds/`).
