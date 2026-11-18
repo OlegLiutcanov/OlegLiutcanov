@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: endgame-get-op
+expected_outcome: |
+  Names the patch; mentions 1.0 on 11 December 2026 and re-checking; gives a concrete checklist starting with capped resistances; recommends one main path; names + minion skill levels or more Spirit as the levers; labels what is unverified or opinion; plain words.

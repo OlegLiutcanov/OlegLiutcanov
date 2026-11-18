@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: no-sceptre-act1
+expected_outcome: |
+  Gives a concrete action first; explains that without a sceptre the Witch has no Spirit so snipers can't be summoned; does not promise vendor stock; gives other routes to Spirit or a sceptre (recheck after level-ups, Freythorn's King in the Mists for +30 Spirit); names skills to use meanwhile; plain words.

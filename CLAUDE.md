@@ -153,7 +153,7 @@ Full numbers: `reports/leveling_plan.txt` (`./run.sh jobs/leveling_plan.lua`), t
   sniper's damage. Self-cast spells run out of mana (regen pays 20 to 35% of nonstop casting with no gear).
 - **Tree, damage first:** Raw Destruction (5 points), Power of the Dead (8), Emboldening Lead (14), Deadly Swarm
   (23), Relentless Fallen (30). All attribute nodes to Intelligence (gem level needs 21 Int at level 10, 41 at
-  22, 57 at 31, 74 at 41, 92 at 52). All of it sits on the Domino tree, so nothing is wasted.
+  22, 57 at 31, 74 at 41, 92 at 52). 33 of the first 44 points are on the Domino route; switching refunds about 11.
 - **Without a sceptre there is no Spirit at all** (PoB2 base is 0). The Witch starts with a wand; a Rattling Sceptre
   must drop or be bought from Una in Clearfell (random stock, unconfirmed: check her shop after each level).
 - **Route facts (poe2db):** Act 1 area levels 1-15 (Geonor), Act 2 16-31 (Jamanra), Act 3 33-45 (Doryani), Act 4
@@ -165,6 +165,12 @@ Full numbers: `reports/leveling_plan.txt` (`./run.sh jobs/leveling_plan.lua`), t
 - Opinion only, not confirmed: racers finish in 4.5 to 5 hours, first-timers about 20 to 25 (old articles); stay
   within 3 to 4 levels of the area; no experience loss on death in the campaign; hold dodge to sprint.
 - The fastest timed runs use Essence Drain + Contagion with Bonestorm for bosses (4:32). Harder to play.
+
+## Coaching skill
+
+`skills/poe2-witch-coach/` is a skill Oleg gives to new chats (packaged: `skills/dist/poe2-witch-coach.skill`).
+It carries the build, the campaign plan, mechanics and gear rules from this file. When the plan here changes,
+update its `references/` too and re-package (`python -m scripts.package_skill` from the skill-creator skill).
 
 ## Jobs
 

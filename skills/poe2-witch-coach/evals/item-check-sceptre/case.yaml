@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: item-check-sceptre
+expected_outcome: |
+  Answers Equip in the first line with the deciding reason, in about two lines; notes the higher warrior skill level or the +1 minion levels; says it is unconfirmed whether +1 minion levels raise the sceptre's own warriors and how to check; warns what to check when swapping sceptres.
