@@ -1,7 +1,7 @@
 # Oleg's Path of Exile 2 build lab
 
 Oleg is new to ARPGs. This folder is his build lab: Path of Building 2 (PoB2) runs here without a window, so ideas
-get numbers before he spends time in game. Last full check: 2026-11-17, game patch **0.5.5f**. Version 1.0 lands
+get numbers before he spends time in game. Last full check: 2026-11-17, game patch **0.5.5f** (0.5.5h on 17 Nov: bug fixes only). Version 1.0 lands
 **11 December 2026** (passive tree overhaul, support gem rebalance, Infernalist rework: re-check everything then).
 
 ## Standing rules
